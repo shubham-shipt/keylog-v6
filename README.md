@@ -111,13 +111,7 @@ Huge thanks to these open-source libraries:
 
 ---
 
-## 📬 Contact
 
-For queries, bugs, or feature requests:
-📧 your-email@example.com  
-🌐 GitHub Issues section
-
----
 
  👾✨
 
