@@ -19,6 +19,10 @@ Welcome to **Advanced Keylogger Tool V6** – a mind-blowing, feature-loaded key
 
 ---
 
+## 📸 Screenshots / Demo
+
+
+
 ## 💻 Prerequisites
 
 - **OS**: Kali Linux / Any Linux distro with Python 3.6+
@@ -66,9 +70,7 @@ sudo python3 advanced_keylogger_v6.py
 
 ---
 
-## 📸 Screenshots / Demo
 
-![image](https://github.com/user-attachments/assets/fb7da546-5fc1-4dee-94d1-c556454cb032)
 
 
 Imagine this:
