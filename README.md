@@ -21,6 +21,10 @@ Welcome to **Advanced Keylogger Tool V6** – a mind-blowing, feature-loaded key
 
 ## 📸 Screenshots / Demo
 
+![3](https://github.com/user-attachments/assets/0d4fa787-d9f4-4227-8d0e-e3b11575ac5d)
+![2](https://github.com/user-attachments/assets/38c9255c-2795-4fdf-9fa3-e8fd1d0f5bf0)
+![1](https://github.com/user-attachments/assets/1b61aa93-b706-4e31-a651-b22fb664ec45)
+
 
 
 ## 💻 Prerequisites
