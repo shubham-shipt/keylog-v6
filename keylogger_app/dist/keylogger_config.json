@@ -1,0 +1,16 @@
+{
+    "log_folder": "logs",
+    "screenshot_folder": "screenshots",
+    "email_config": {
+        "enabled": false,
+        "email": "",
+        "password": "",
+        "receiver": "",
+        "interval": 300
+    },
+    "hotkeys": {
+        "stealth": "f12",
+        "pause": "f11"
+    },
+    "log_interval": 30
+}
