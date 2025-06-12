@@ -19,7 +19,7 @@
 
 ## 🎯 Features
 - 🔐 **AES-Encrypted Logs**: Securely store logs with encryption.
-- 🎛 **Modern GUI**: Intuitive interface with multiple themes (`dark`, `mr_robot`, `hacker`, etc.).
+- 🎛 **Modern GUI**: Intuitive interface with multiple themes (`dark`, etc.).
 - 📃 **Real-Time Preview**: View logs as they are captured.
 - 📩 **Email Alerts**: Send logs via SMTP at set intervals.
 - 📷 **Auto Screenshots**: Capture on `ENTER` or `CTRL+V`.
