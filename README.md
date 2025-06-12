@@ -32,30 +32,31 @@
 ---
 
 ## 🖥️ Screenshots
-Here are some glimpses of **Keylog-v6** in action:
+
 
  
    <p align="center">
-     <img src="https://raw.githubusercontent.com/shubham-shipt/keylog-v6/main/images/1.png" width="80%" />
-   </p>
-
- 
-   <p align="center">
-     <img src="https://raw.githubusercontent.com/shubham-shipt/keylog-v6/main/images/2.png" width="80%" />
-   </p>
-
-
-   <p align="center">
-     <img src="https://raw.githubusercontent.com/shubham-shipt/keylog-v6/main/images/3.png" width="80%" />
+     <img src="https://raw.githubusercontent.com/shubham-shipt/keylog-v6/main/1.png" width="80%" />
    </p>
 
  
    <p align="center">
-     <img src="https://raw.githubusercontent.com/shubham-shipt/keylog-v6/main/images/4.png" width="80%" />
+     <img src="https://raw.githubusercontent.com/shubham-shipt/keylog-v6/main/2.png" width="80%" />
    </p>
 
+ 
+   <p align="center">
+     <img src="https://raw.githubusercontent.com/shubham-shipt/keylog-v6/main/3.png" width="80%" />
+   </p>
 
+ 
+   <p align="center">
+     <img src="https://raw.githubusercontent.com/shubham-shipt/keylog-v6/main/4.png" width="80%" />
+   </p>
 
+   <p align="center">
+     <img src="https://raw.githubusercontent.com/shubham-shipt/keylog-v6/main/5.png" width="80%" />
+   </p>
 ---
 
 ## ⚙️ How to Run
