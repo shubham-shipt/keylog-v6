@@ -32,11 +32,29 @@
 ---
 
 ## 🖥️ Screenshots
-<p align="center">
-  <img src="https://github.com/shubham-shipt/keylog-v6/blob/main/images/keylog-ui.png" width="80%" />
-</p>
+Here are some glimpses of **Keylog-v6** in action:
 
-> *Replace with your actual screenshot path in the repo*
+ 
+   <p align="center">
+     <img src="https://raw.githubusercontent.com/shubham-shipt/keylog-v6/main/images/1.png" width="80%" />
+   </p>
+
+ 
+   <p align="center">
+     <img src="https://raw.githubusercontent.com/shubham-shipt/keylog-v6/main/images/2.png" width="80%" />
+   </p>
+
+
+   <p align="center">
+     <img src="https://raw.githubusercontent.com/shubham-shipt/keylog-v6/main/images/3.png" width="80%" />
+   </p>
+
+ 
+   <p align="center">
+     <img src="https://raw.githubusercontent.com/shubham-shipt/keylog-v6/main/images/4.png" width="80%" />
+   </p>
+
+
 
 ---
 
