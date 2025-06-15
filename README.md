@@ -158,6 +158,6 @@ psutil==5.9.8
 - The **Gmail auto-emailing feature** (keyword-based or interval-based sending) is **not fully functional** or deployed correctly yet.
 - If you face any issues with **email delivery or keyword alerts**, please don't assume it's broken — .
 
-    💻!
+    💻`
 
 ---
