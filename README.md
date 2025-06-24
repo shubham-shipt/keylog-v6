@@ -1,5 +1,5 @@
 
-<h1 align="center">🔐 Keylog-v6</h1>
+<h1 align="center">🔐 Keylog-v6.</h1>
 <p align="center">
   Advanced Python Keylogger with GUI, Encryption, Email Alerts, and Real-time Monitoring
 </p>
