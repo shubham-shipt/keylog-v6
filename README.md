@@ -1,4 +1,4 @@
-<h1 align="center">🔐 Keylog-v6:: Advanced Python Keylogger with GUI, Encryption & Email Alerts</h1>
+<h1 align="center">🔐 Keylog-v6</h1>
 
 <p align="center">
   A stealthy, feature-rich Python keylogger with GUI, encrypted logs, screenshot capture, email alerts, and real-time tracking — built for educational cybersecurity research.
