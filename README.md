@@ -153,7 +153,7 @@ Total Duration: 5 hours 33 mins
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="Images/5.png" alt="Keylogger Architecture" width="680" style="border-radius:10px;box-shadow:0 2px 12px #0002"/>
+  <img src="Images/6.png" alt="Keylogger Architecture" width="680" style="border-radius:10px;box-shadow:0 2px 12px #0002"/>
 </p>
 
 ---
@@ -161,9 +161,11 @@ Total Duration: 5 hours 33 mins
 ## 🌌 Visual Gallery
 
 <p align="center">
-  <img src="Images/2.png" alt="Log Preview" width="220" style="margin:0 10px; border-radius:10px; box-shadow:0 2px 8px #0002"/>
-  <img src="Images/3.png" alt="Clipboard Logging" width="210" style="margin:0 10px; border-radius:10px; box-shadow:0 2px 8px #0002"/>
-  <img src="Images/4.png" alt="File Explorer" width="180" style="margin:0 10px; border-radius:10px; box-shadow:0 2px 8px #0002"/>
+  <img src="Images/7.png" alt="Log Preview" width="220" style="margin:0 10px; border-radius:10px; box-shadow:0 2px 8px #0002"/>
+  <img src="Images/4.png" alt="Clipboard Logging" width="210" style="margin:0 10px; border-radius:10px; box-shadow:0 2px 8px #0002"/>
+  <img src="Images/3.png" alt="File Explorer" width="180" style="margin:0 10px; border-radius:10px; box-shadow:0 2px 8px #0002"/>
+  <img src="Images/5.png" alt="File Explorer" width="180" style="margin:0 10px; border-radius:10px; box-shadow:0 2px 8px #0002"/>
+ <img src="Images/2.png" alt="File Explorer" width="180" style="margin:0 10px; border-radius:10px; box-shadow:0 2px 8px #0002"/>
 </p>
 
 ---
