@@ -45,8 +45,8 @@ python keylogger_v12.py
 <details>
 <summary>🔎 <b>Info & Usage</b> <i>(click)</i></summary>
 
-- **Category:** <span style="color:#FF5E57"><b>Black Hat Tool (Awareness/Research Only!)</b></span>
-- **Logs:** Keystrokes, clipboard, screenshots, mouse, per-app, AI summaries
+- **Category:** <span style="color:#FF5E57"><b>Tool (Only!)</b></span>
+- **Logs:** Keystrokes, clipboard, screenshots, mouse, Application used by users with time, AI summaries
 - **Platforms:** Windows (full), Linux/Mac (partial)
 - **No cloud, no email alerts, 100% offline, encrypted logs**
 - **For legal, ethical, and educational research only. Unauthorized use is illegal and unethical.**
